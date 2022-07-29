@@ -1,7 +1,7 @@
 ## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">Hi 👋, I'm Gabriel Amorim</h1>
-<h3 align="center">console.log('Hello, I'm a Developer at <a href="https://www.dadosfera.ai">Dadosfera</a>')</h3>
+<h3 align="center">console.log('Hello, I'm a Developer at <a href="https://www.dadosfera.ai" target="_blank">Dadosfera</a>')</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrra&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielrra github profile views" /> </p>
 
