@@ -13,9 +13,9 @@
 - 📄 Know about my work & experiences [My Resume (English)](https://docs.google.com/document/d/18TdIKXjwkw_p64xJc8Q9zmHVvHs8ccDT5RSbxiDGSKY/edit?usp=sharing) or [Meu currículo (Português)](https://docs.google.com/document/d/1s5w1hZ_PDpV4Ed2MONwFQvbVBR-TlzNxi-eLol0HIu8/edit?usp=sharing)
 
 ### What are my featured projects:question::rocket:
-<code>[XRP Rest Api](https://github.com/gabrielrra/xrp-rest-api)</code>:money_with_wings:     
-<code>[Ecoleta](https://github.com/gabrielrra/Ecoleta_NLW-1)</code>:recycle:  
-<code>[PoupaMais](https://github.com/gabrielrra/poupamais)</code>:moneybag:     
+<code>[XRP Rest Api](https://github.com/gabrielrra/upload-ai)</code>🤖
+<code>[Ecoleta](https://github.com/gabrielrra/Ecoleta_NLW-1)</code>:recycle:
+<code>[PoupaMais](https://github.com/gabrielrra/poupamais)</code>:moneybag:
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much anything related to javascript"</code> :grin:
