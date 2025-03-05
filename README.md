@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about **Golang**
 - 💬 You can ask me about **React, React Native, Node and Javascript in general**
-- 📫 How to reach me **gabrielrra.dev@gmail.com**
+- 📫 Reach me at [gabrielrra.dev@gmail.com](mailto:gabrielrra.dev@gmail.com)
 
 - 📄 Know about my work & experiences [My Resume (English)](https://docs.google.com/document/d/18TdIKXjwkw_p64xJc8Q9zmHVvHs8ccDT5RSbxiDGSKY/edit?usp=sharing) or [Meu currículo (Português)](https://docs.google.com/document/d/1s5w1hZ_PDpV4Ed2MONwFQvbVBR-TlzNxi-eLol0HIu8/edit?usp=sharing)
 
